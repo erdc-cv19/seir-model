@@ -1,4 +1,4 @@
-# ERDC SEIR Model
+<img src="https://erdc-library.erdc.dren.mil/jspui/retrieve/543bd8de-5fc5-40d1-98b9-2abefcc97e2d" width=50% height=50%>
 
 * [ERDC SEIR Model Supplemental Information](https://github.com/erdc-cv19/seir-model/blob/master/ERDC_SEIR_SI.pdf)
 * [ERDC SEIR Model Visualization] - Coming Soon ...
